@@ -15,4 +15,26 @@ This app is intended for college students looking to start a budget (could event
 - tracking spending through multiple categories
 - creating budgeting goals for each month (and for the overall year)
 - spending goal + amount actually spent (for each category and overall spending)
-- graphs for a better visualization of amount spent by allowing them to set personal goals 
+- graphs for a better visualization of amount spent by allowing them to set personal goals
+
+
+##Project Title
+College Budgeting Tool
+
+##Student Name
+Isabelle Laplante
+
+##App Description (Revised)
+This app will help users budget their money efficiently by allowing them to set personal financial goals across multiple categories. The user will be able to set a specific spending goal for the month. They will be able to track their expenses for the month based upon multiple categories. They will be able to see how much they spent for the month, and the remaining balance based upon their spending.
+
+##what was added
+
+the categories
+spending inputs
+warning the user based upon the amount remaining from goal (including calculations)
+
+##What needs to be added
+
+Charts/graphs based upon each month (to eventually show total year spending by month)
+Charts/graphs based upon the category
+
