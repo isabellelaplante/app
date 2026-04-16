@@ -11,7 +11,7 @@ This app will help users budget their money efficiently by allowing them to set 
 ## Intended Users
 This app is intended for college students looking to start a budget (could eventually be expanded to people out of college looking to budget as well)
  
-## what was addeed
+## what was added
 - selection based upon month
 - added a blue background to give app color
 - changed slider from groceries to monthly budget
